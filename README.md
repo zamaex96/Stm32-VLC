@@ -25,3 +25,9 @@ The code includes a copyright notice from STMicroelectronics and references to l
 - The code demonstrates advanced techniques like DMA-driven UART communication, efficient data processing algorithms for embedded systems, and robust error handling for reliable operation.
 - It is structured for real-time applications where data integrity and timing are critical, leveraging hardware features of the STM32 microcontroller effectively.
 
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
